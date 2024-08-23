@@ -8,7 +8,7 @@ Check out the playlist now and start your learning journey: [Data Structures CSE
 <br />
 <img/>
 
-![Data Structures](.PNG)
+![Data Structures](cse105banner.PNG)
   
 <br />  
 
