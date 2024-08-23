@@ -3,7 +3,7 @@
 <br />  
 Welcome to the Data Structures CSE-105 repository. This repository contains course materials, assignments, and resources for the Data Structures course.  
 <br />  
-Check out the playlist now and start your learning journey: [Data Structures CSE-105 YouTube Playlist Link](#)
+Check out the playlist now and start your learning journey: [Data Structures CSE-105 YouTube Playlist Link](https://youtube.com/playlist?list=PLEc-WcPXUsjt3wJtX8Q0UumYk8TJoO4Fn&si=9HofmH97LKiinkwn)
 **Happy Learning!**
 <br />
 <img/>
